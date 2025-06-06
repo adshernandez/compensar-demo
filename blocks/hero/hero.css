@@ -10,10 +10,11 @@
 }
 
 .hero h1 {
-  max-width: 1200px;
-  margin-left: auto;
+  max-width: 500px;
+  margin-left: 20%;
   margin-right: auto;
-  color: var(--background-color);
+  color: var(--link-color);
+  text-shadow: 3px 1px black;
 }
 
 .hero picture {
